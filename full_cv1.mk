@@ -16,7 +16,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 $(call inherit-product, device/lge/cv1/device.mk)
 
-PRODUCT_NAME := full_cv1
+PRODUCT_NAME := lineage_cv1
 PRODUCT_DEVICE := cv1
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := cv1

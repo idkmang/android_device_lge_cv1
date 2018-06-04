@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_cv1-userdebug
+add_lunch_combo lineage_cv1-userdebug
